@@ -1,2 +1,2 @@
 # PowerShell
-Code sharing tools for IT tasks
+Code sharing: tools for IT tasks
